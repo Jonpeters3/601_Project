@@ -1,0 +1,721 @@
+﻿REF_DATE,GEO,DGUID,Age group,Sex,Indicators,Characteristics,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2015,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817755,10.2.2.1.1,104100,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817755,10.2.2.1.1,106300,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817755,10.2.2.1.1,109900,,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817755,10.2.2.1.1,108500,,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817755,10.2.2.1.1,111800,,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817755,10.2.2.1.1,119500,,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817762,10.2.2.2.1,5800,E,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817762,10.2.2.2.1,12600,E,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817762,10.2.2.2.1,,F,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817762,10.2.2.2.1,,F,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817762,10.2.2.2.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817762,10.2.2.2.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817769,10.2.2.3.1,108900,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817769,10.2.2.3.1,103000,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817769,10.2.2.3.1,109100,,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817769,10.2.2.3.1,113800,,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817769,10.2.2.3.1,111200,,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817769,10.2.2.3.1,116100,,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817776,10.2.2.4.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817776,10.2.2.4.1,,F,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817776,10.2.2.4.1,,F,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817776,10.2.2.4.1,8400,E,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817776,10.2.2.4.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817776,10.2.2.4.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817783,10.2.2.5.1,11100,E,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817783,10.2.2.5.1,10500,E,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817783,10.2.2.5.1,10300,E,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817783,10.2.2.5.1,8800,E,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817783,10.2.2.5.1,16700,E,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817783,10.2.2.5.1,14100,E,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110817846,10.2.2.14.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110817846,10.2.2.14.1,,F,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110817846,10.2.2.14.1,,F,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110817846,10.2.2.14.1,,F,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110817846,10.2.2.14.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110817846,10.2.2.14.1,11200,E,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110817853,10.2.2.15.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110817853,10.2.2.15.1,8500,E,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110817853,10.2.2.15.1,,F,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110817853,10.2.2.15.1,,F,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110817853,10.2.2.15.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110817853,10.2.2.15.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110817860,10.2.2.16.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110817860,10.2.2.16.1,,F,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110817860,10.2.2.16.1,,F,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110817860,10.2.2.16.1,,F,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110817860,10.2.2.16.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110817860,10.2.2.16.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110817867,10.2.2.17.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110817867,10.2.2.17.1,,F,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110817867,10.2.2.17.1,3800,E,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110817867,10.2.2.17.1,,F,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110817867,10.2.2.17.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110817867,10.2.2.17.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110817909,10.2.2.23.1,111100,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110817909,10.2.2.23.1,107700,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110817909,10.2.2.23.1,110500,,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110817909,10.2.2.23.1,106900,,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110817909,10.2.2.23.1,115200,,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110817909,10.2.2.23.1,131000,,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110817916,10.2.2.24.1,129700,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110817916,10.2.2.24.1,125400,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110817916,10.2.2.24.1,131300,,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110817916,10.2.2.24.1,137500,,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110817916,10.2.2.24.1,144300,,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110817916,10.2.2.24.1,146300,,,,0
+2015,Alberta,2016A000248,12 to 17 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110817930,10.2.2.26.1,82600,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110817930,10.2.2.26.1,75200,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110817930,10.2.2.26.1,,..,,,0
+2018,Alberta,2016A000248,12 to 17 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110817930,10.2.2.26.1,,..,,,0
+2019,Alberta,2016A000248,12 to 17 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110817930,10.2.2.26.1,,..,,,0
+2020,Alberta,2016A000248,12 to 17 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110817930,10.2.2.26.1,,..,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817937,10.2.3.1.1,101200,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817937,10.2.3.1.1,100300,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817937,10.2.3.1.1,107600,,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817937,10.2.3.1.1,106500,,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817937,10.2.3.1.1,101300,,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110817937,10.2.3.1.1,114200,,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817944,10.2.3.2.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817944,10.2.3.2.1,7100,E,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817944,10.2.3.2.1,4300,E,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817944,10.2.3.2.1,5300,E,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817944,10.2.3.2.1,14200,E,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110817944,10.2.3.2.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817951,10.2.3.3.1,94100,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817951,10.2.3.3.1,101100,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817951,10.2.3.3.1,97600,,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817951,10.2.3.3.1,87900,,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817951,10.2.3.3.1,91700,,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110817951,10.2.3.3.1,94800,,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817958,10.2.3.4.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817958,10.2.3.4.1,7700,E,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817958,10.2.3.4.1,10400,E,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817958,10.2.3.4.1,14900,E,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817958,10.2.3.4.1,12700,E,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110817958,10.2.3.4.1,21200,E,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817965,10.2.3.5.1,24300,E,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817965,10.2.3.5.1,19000,E,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817965,10.2.3.5.1,16100,E,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817965,10.2.3.5.1,28400,E,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817965,10.2.3.5.1,20000,E,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110817965,10.2.3.5.1,21900,E,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818028,10.2.3.14.1,7500,E,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818028,10.2.3.14.1,9400,E,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818028,10.2.3.14.1,15900,E,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818028,10.2.3.14.1,12400,E,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818028,10.2.3.14.1,15600,E,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818028,10.2.3.14.1,10900,E,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818035,10.2.3.15.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818035,10.2.3.15.1,,F,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818035,10.2.3.15.1,,F,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818035,10.2.3.15.1,,F,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818035,10.2.3.15.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818035,10.2.3.15.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818042,10.2.3.16.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818042,10.2.3.16.1,,F,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818042,10.2.3.16.1,,F,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818042,10.2.3.16.1,,F,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818042,10.2.3.16.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818042,10.2.3.16.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818049,10.2.3.17.1,,F,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818049,10.2.3.17.1,,F,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818049,10.2.3.17.1,,F,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818049,10.2.3.17.1,,F,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818049,10.2.3.17.1,,F,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818049,10.2.3.17.1,,F,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818091,10.2.3.23.1,108900,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818091,10.2.3.23.1,110700,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818091,10.2.3.23.1,120500,,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818091,10.2.3.23.1,117000,,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818091,10.2.3.23.1,113300,,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818091,10.2.3.23.1,132900,,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818098,10.2.3.24.1,123300,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818098,10.2.3.24.1,125900,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818098,10.2.3.24.1,131600,,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818098,10.2.3.24.1,128700,,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818098,10.2.3.24.1,130000,,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818098,10.2.3.24.1,140200,,,,0
+2015,Alberta,2016A000248,12 to 17 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818112,10.2.3.26.1,75300,,,,0
+2016,Alberta,2016A000248,12 to 17 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818112,10.2.3.26.1,81900,,,,0
+2017,Alberta,2016A000248,12 to 17 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818112,10.2.3.26.1,,..,,,0
+2018,Alberta,2016A000248,12 to 17 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818112,10.2.3.26.1,,..,,,0
+2019,Alberta,2016A000248,12 to 17 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818112,10.2.3.26.1,,..,,,0
+2020,Alberta,2016A000248,12 to 17 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818112,10.2.3.26.1,,..,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818301,10.3.2.1.1,405400,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818301,10.3.2.1.1,401700,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818301,10.3.2.1.1,381900,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818301,10.3.2.1.1,379900,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818301,10.3.2.1.1,371900,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818301,10.3.2.1.1,340900,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818308,10.3.2.2.1,35700,E,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818308,10.3.2.2.1,35900,E,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818308,10.3.2.2.1,32400,E,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818308,10.3.2.2.1,31500,E,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818308,10.3.2.2.1,32600,E,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818308,10.3.2.2.1,24000,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818315,10.3.2.3.1,425500,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818315,10.3.2.3.1,411800,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818315,10.3.2.3.1,370100,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818315,10.3.2.3.1,366500,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818315,10.3.2.3.1,354000,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818315,10.3.2.3.1,320000,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818322,10.3.2.4.1,27900,E,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818322,10.3.2.4.1,35500,E,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818322,10.3.2.4.1,43600,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818322,10.3.2.4.1,51100,E,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818322,10.3.2.4.1,51500,E,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818322,10.3.2.4.1,59000,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818329,10.3.2.5.1,118400,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818329,10.3.2.5.1,118100,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818329,10.3.2.5.1,95700,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818329,10.3.2.5.1,96400,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818329,10.3.2.5.1,81100,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818329,10.3.2.5.1,111000,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818392,10.3.2.14.1,25100,E,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818392,10.3.2.14.1,42200,E,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818392,10.3.2.14.1,41300,E,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818392,10.3.2.14.1,43100,E,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818392,10.3.2.14.1,48100,E,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818392,10.3.2.14.1,39700,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818399,10.3.2.15.1,129300,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818399,10.3.2.15.1,158300,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818399,10.3.2.15.1,138500,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818399,10.3.2.15.1,130400,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818399,10.3.2.15.1,117000,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818399,10.3.2.15.1,97500,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818406,10.3.2.16.1,78700,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818406,10.3.2.16.1,86400,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818406,10.3.2.16.1,69400,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818406,10.3.2.16.1,79200,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818406,10.3.2.16.1,60800,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818406,10.3.2.16.1,52700,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818413,10.3.2.17.1,176400,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818413,10.3.2.17.1,197100,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818413,10.3.2.17.1,187400,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818413,10.3.2.17.1,169900,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818413,10.3.2.17.1,212000,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818413,10.3.2.17.1,151300,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818455,10.3.2.23.1,330400,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818455,10.3.2.23.1,326000,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818455,10.3.2.23.1,328800,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818455,10.3.2.23.1,322200,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818455,10.3.2.23.1,311700,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818455,10.3.2.23.1,279600,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818462,10.3.2.24.1,528900,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818462,10.3.2.24.1,516700,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818462,10.3.2.24.1,505900,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818462,10.3.2.24.1,510300,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818462,10.3.2.24.1,484400,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818462,10.3.2.24.1,462900,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818476,10.3.2.26.1,274400,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818476,10.3.2.26.1,312600,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818476,10.3.2.26.1,,..,,,0
+2018,Alberta,2016A000248,18 to 34 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818476,10.3.2.26.1,,..,,,0
+2019,Alberta,2016A000248,18 to 34 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818476,10.3.2.26.1,,..,,,0
+2020,Alberta,2016A000248,18 to 34 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818476,10.3.2.26.1,,..,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818483,10.3.3.1.1,370700,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818483,10.3.3.1.1,353000,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818483,10.3.3.1.1,359700,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818483,10.3.3.1.1,376700,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818483,10.3.3.1.1,350800,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818483,10.3.3.1.1,352000,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818490,10.3.3.2.1,28500,E,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818490,10.3.3.2.1,37000,E,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818490,10.3.3.2.1,35200,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818490,10.3.3.2.1,42000,E,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818490,10.3.3.2.1,40000,E,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818490,10.3.3.2.1,54000,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818497,10.3.3.3.1,357100,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818497,10.3.3.3.1,348700,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818497,10.3.3.3.1,325300,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818497,10.3.3.3.1,316200,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818497,10.3.3.3.1,286800,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818497,10.3.3.3.1,304800,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818504,10.3.3.4.1,42600,E,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818504,10.3.3.4.1,49500,E,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818504,10.3.3.4.1,52700,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818504,10.3.3.4.1,53500,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818504,10.3.3.4.1,82500,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818504,10.3.3.4.1,63800,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818511,10.3.3.5.1,96600,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818511,10.3.3.5.1,116900,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818511,10.3.3.5.1,122700,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818511,10.3.3.5.1,96400,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818511,10.3.3.5.1,104900,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818511,10.3.3.5.1,112100,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818574,10.3.3.14.1,65400,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818574,10.3.3.14.1,61300,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818574,10.3.3.14.1,72300,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818574,10.3.3.14.1,83500,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818574,10.3.3.14.1,82300,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110818574,10.3.3.14.1,67900,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818581,10.3.3.15.1,93300,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818581,10.3.3.15.1,95000,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818581,10.3.3.15.1,82600,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818581,10.3.3.15.1,77800,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818581,10.3.3.15.1,79500,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818581,10.3.3.15.1,65000,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818588,10.3.3.16.1,64700,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818588,10.3.3.16.1,49100,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818588,10.3.3.16.1,43900,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818588,10.3.3.16.1,47800,E,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818588,10.3.3.16.1,51600,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110818588,10.3.3.16.1,35200,E,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818595,10.3.3.17.1,132100,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818595,10.3.3.17.1,110500,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818595,10.3.3.17.1,128800,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818595,10.3.3.17.1,125000,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818595,10.3.3.17.1,132500,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110818595,10.3.3.17.1,112300,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818637,10.3.3.23.1,331100,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818637,10.3.3.23.1,345000,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818637,10.3.3.23.1,335600,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818637,10.3.3.23.1,338800,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818637,10.3.3.23.1,328300,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110818637,10.3.3.23.1,328600,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818644,10.3.3.24.1,508800,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818644,10.3.3.24.1,496700,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818644,10.3.3.24.1,493900,,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818644,10.3.3.24.1,484700,,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818644,10.3.3.24.1,487200,,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110818644,10.3.3.24.1,475700,,,,0
+2015,Alberta,2016A000248,18 to 34 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818658,10.3.3.26.1,398200,,,,0
+2016,Alberta,2016A000248,18 to 34 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818658,10.3.3.26.1,419700,,,,0
+2017,Alberta,2016A000248,18 to 34 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818658,10.3.3.26.1,,..,,,0
+2018,Alberta,2016A000248,18 to 34 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818658,10.3.3.26.1,,..,,,0
+2019,Alberta,2016A000248,18 to 34 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818658,10.3.3.26.1,,..,,,0
+2020,Alberta,2016A000248,18 to 34 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110818658,10.3.3.26.1,,..,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818847,10.4.2.1.1,293500,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818847,10.4.2.1.1,309900,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818847,10.4.2.1.1,305200,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818847,10.4.2.1.1,290600,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818847,10.4.2.1.1,339700,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110818847,10.4.2.1.1,301200,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818854,10.4.2.2.1,25800,E,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818854,10.4.2.2.1,25400,E,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818854,10.4.2.2.1,28600,E,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818854,10.4.2.2.1,38100,E,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818854,10.4.2.2.1,31700,E,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110818854,10.4.2.2.1,48400,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818861,10.4.2.3.1,323700,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818861,10.4.2.3.1,364700,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818861,10.4.2.3.1,339400,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818861,10.4.2.3.1,333400,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818861,10.4.2.3.1,342800,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110818861,10.4.2.3.1,298100,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818868,10.4.2.4.1,27100,E,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818868,10.4.2.4.1,20600,E,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818868,10.4.2.4.1,27600,E,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818868,10.4.2.4.1,32300,E,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818868,10.4.2.4.1,33100,E,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110818868,10.4.2.4.1,63100,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818875,10.4.2.5.1,114500,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818875,10.4.2.5.1,125900,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818875,10.4.2.5.1,98900,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818875,10.4.2.5.1,125200,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818875,10.4.2.5.1,121000,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110818875,10.4.2.5.1,111600,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818938,10.4.2.14.1,22700,E,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818938,10.4.2.14.1,24700,E,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818938,10.4.2.14.1,28000,E,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818938,10.4.2.14.1,33700,E,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818938,10.4.2.14.1,36000,E,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110818938,10.4.2.14.1,51900,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818945,10.4.2.15.1,117800,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818945,10.4.2.15.1,92800,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818945,10.4.2.15.1,103700,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818945,10.4.2.15.1,111400,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818945,10.4.2.15.1,89400,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110818945,10.4.2.15.1,107800,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818952,10.4.2.16.1,73700,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818952,10.4.2.16.1,69300,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818952,10.4.2.16.1,75000,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818952,10.4.2.16.1,81200,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818952,10.4.2.16.1,56700,E,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110818952,10.4.2.16.1,80000,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818959,10.4.2.17.1,118300,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818959,10.4.2.17.1,128700,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818959,10.4.2.17.1,131100,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818959,10.4.2.17.1,137200,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818959,10.4.2.17.1,142200,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110818959,10.4.2.17.1,131000,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819001,10.4.2.23.1,292400,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819001,10.4.2.23.1,333500,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819001,10.4.2.23.1,317900,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819001,10.4.2.23.1,306300,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819001,10.4.2.23.1,327000,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819001,10.4.2.23.1,315200,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819008,10.4.2.24.1,428600,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819008,10.4.2.24.1,433400,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819008,10.4.2.24.1,432000,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819008,10.4.2.24.1,435100,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819008,10.4.2.24.1,443000,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819008,10.4.2.24.1,439100,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819022,10.4.2.26.1,320100,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819022,10.4.2.26.1,309500,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819022,10.4.2.26.1,,..,,,0
+2018,Alberta,2016A000248,35 to 49 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819022,10.4.2.26.1,,..,,,0
+2019,Alberta,2016A000248,35 to 49 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819022,10.4.2.26.1,,..,,,0
+2020,Alberta,2016A000248,35 to 49 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819022,10.4.2.26.1,,..,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819029,10.4.3.1.1,308800,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819029,10.4.3.1.1,289300,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819029,10.4.3.1.1,288700,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819029,10.4.3.1.1,290800,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819029,10.4.3.1.1,304000,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819029,10.4.3.1.1,301300,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819036,10.4.3.2.1,32800,E,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819036,10.4.3.2.1,40000,E,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819036,10.4.3.2.1,34800,E,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819036,10.4.3.2.1,45200,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819036,10.4.3.2.1,37100,E,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819036,10.4.3.2.1,41300,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819043,10.4.3.3.1,321100,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819043,10.4.3.3.1,302500,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819043,10.4.3.3.1,307100,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819043,10.4.3.3.1,308600,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819043,10.4.3.3.1,291200,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819043,10.4.3.3.1,275700,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819050,10.4.3.4.1,27300,E,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819050,10.4.3.4.1,32100,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819050,10.4.3.4.1,26700,E,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819050,10.4.3.4.1,42500,E,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819050,10.4.3.4.1,34600,E,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819050,10.4.3.4.1,57600,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819057,10.4.3.5.1,118000,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819057,10.4.3.5.1,128500,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819057,10.4.3.5.1,101900,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819057,10.4.3.5.1,133800,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819057,10.4.3.5.1,115900,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819057,10.4.3.5.1,152400,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819120,10.4.3.14.1,41700,E,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819120,10.4.3.14.1,64500,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819120,10.4.3.14.1,54200,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819120,10.4.3.14.1,58700,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819120,10.4.3.14.1,60600,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819120,10.4.3.14.1,71600,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819127,10.4.3.15.1,73300,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819127,10.4.3.15.1,55700,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819127,10.4.3.15.1,58000,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819127,10.4.3.15.1,60400,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819127,10.4.3.15.1,69700,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819127,10.4.3.15.1,60600,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819134,10.4.3.16.1,60600,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819134,10.4.3.16.1,44000,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819134,10.4.3.16.1,50900,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819134,10.4.3.16.1,50800,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819134,10.4.3.16.1,47200,E,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819134,10.4.3.16.1,55400,E,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819141,10.4.3.17.1,54400,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819141,10.4.3.17.1,57800,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819141,10.4.3.17.1,79600,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819141,10.4.3.17.1,72300,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819141,10.4.3.17.1,70000,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819141,10.4.3.17.1,74900,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819183,10.4.3.23.1,309200,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819183,10.4.3.23.1,292700,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819183,10.4.3.23.1,286400,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819183,10.4.3.23.1,309600,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819183,10.4.3.23.1,307100,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819183,10.4.3.23.1,349200,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819190,10.4.3.24.1,397400,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819190,10.4.3.24.1,398500,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819190,10.4.3.24.1,414500,,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819190,10.4.3.24.1,411900,,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819190,10.4.3.24.1,419800,,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819190,10.4.3.24.1,447400,,,,0
+2015,Alberta,2016A000248,35 to 49 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819204,10.4.3.26.1,346200,,,,0
+2016,Alberta,2016A000248,35 to 49 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819204,10.4.3.26.1,342400,,,,0
+2017,Alberta,2016A000248,35 to 49 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819204,10.4.3.26.1,,..,,,0
+2018,Alberta,2016A000248,35 to 49 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819204,10.4.3.26.1,,..,,,0
+2019,Alberta,2016A000248,35 to 49 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819204,10.4.3.26.1,,..,,,0
+2020,Alberta,2016A000248,35 to 49 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819204,10.4.3.26.1,,..,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819393,10.5.2.1.1,252500,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819393,10.5.2.1.1,238400,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819393,10.5.2.1.1,235200,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819393,10.5.2.1.1,242600,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819393,10.5.2.1.1,236400,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819393,10.5.2.1.1,251700,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819400,10.5.2.2.1,48500,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819400,10.5.2.2.1,50100,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819400,10.5.2.2.1,67800,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819400,10.5.2.2.1,60000,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819400,10.5.2.2.1,49900,E,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819400,10.5.2.2.1,53400,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819407,10.5.2.3.1,305300,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819407,10.5.2.3.1,290700,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819407,10.5.2.3.1,288100,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819407,10.5.2.3.1,286500,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819407,10.5.2.3.1,273700,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819407,10.5.2.3.1,278300,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819414,10.5.2.4.1,25500,E,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819414,10.5.2.4.1,31300,E,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819414,10.5.2.4.1,31400,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819414,10.5.2.4.1,24200,E,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819414,10.5.2.4.1,20500,E,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819414,10.5.2.4.1,31300,E,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819421,10.5.2.5.1,78700,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819421,10.5.2.5.1,100400,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819421,10.5.2.5.1,105600,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819421,10.5.2.5.1,89300,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819421,10.5.2.5.1,94100,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819421,10.5.2.5.1,73500,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110819484,10.5.2.14.1,26400,E,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110819484,10.5.2.14.1,27500,E,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110819484,10.5.2.14.1,37900,E,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110819484,10.5.2.14.1,23500,E,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110819484,10.5.2.14.1,22100,E,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,Mood disorder,Number of persons,Number,223,units,0,v110819484,10.5.2.14.1,34600,E,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819491,10.5.2.15.1,102100,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819491,10.5.2.15.1,84700,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819491,10.5.2.15.1,98500,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819491,10.5.2.15.1,94000,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819491,10.5.2.15.1,88200,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819491,10.5.2.15.1,72300,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110819498,10.5.2.16.1,94600,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110819498,10.5.2.16.1,58800,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110819498,10.5.2.16.1,79600,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110819498,10.5.2.16.1,76500,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110819498,10.5.2.16.1,75100,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110819498,10.5.2.16.1,52300,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110819505,10.5.2.17.1,86400,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110819505,10.5.2.17.1,89200,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110819505,10.5.2.17.1,83900,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110819505,10.5.2.17.1,98200,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110819505,10.5.2.17.1,81400,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,Heavy drinking,Number of persons,Number,223,units,0,v110819505,10.5.2.17.1,67600,E,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819547,10.5.2.23.1,272700,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819547,10.5.2.23.1,282700,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819547,10.5.2.23.1,273200,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819547,10.5.2.23.1,300800,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819547,10.5.2.23.1,288400,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819547,10.5.2.23.1,281800,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819554,10.5.2.24.1,352700,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819554,10.5.2.24.1,360700,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819554,10.5.2.24.1,358300,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819554,10.5.2.24.1,367300,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819554,10.5.2.24.1,371500,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819554,10.5.2.24.1,351600,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819568,10.5.2.26.1,284400,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819568,10.5.2.26.1,316100,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819568,10.5.2.26.1,,..,,,0
+2018,Alberta,2016A000248,50 to 64 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819568,10.5.2.26.1,,..,,,0
+2019,Alberta,2016A000248,50 to 64 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819568,10.5.2.26.1,,..,,,0
+2020,Alberta,2016A000248,50 to 64 years,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819568,10.5.2.26.1,,..,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819575,10.5.3.1.1,246200,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819575,10.5.3.1.1,225600,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819575,10.5.3.1.1,223500,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819575,10.5.3.1.1,212500,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819575,10.5.3.1.1,246800,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819575,10.5.3.1.1,246600,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819582,10.5.3.2.1,51400,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819582,10.5.3.2.1,66400,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819582,10.5.3.2.1,51500,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819582,10.5.3.2.1,54400,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819582,10.5.3.2.1,48800,E,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819582,10.5.3.2.1,50600,E,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819589,10.5.3.3.1,306700,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819589,10.5.3.3.1,269300,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819589,10.5.3.3.1,265200,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819589,10.5.3.3.1,269200,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819589,10.5.3.3.1,284200,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819589,10.5.3.3.1,258500,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819596,10.5.3.4.1,29500,E,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819596,10.5.3.4.1,39300,E,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819596,10.5.3.4.1,26200,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819596,10.5.3.4.1,27200,E,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819596,10.5.3.4.1,33000,E,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819596,10.5.3.4.1,49400,E,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819603,10.5.3.5.1,77400,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819603,10.5.3.5.1,98800,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819603,10.5.3.5.1,78700,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819603,10.5.3.5.1,87700,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819603,10.5.3.5.1,99700,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819603,10.5.3.5.1,97600,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819666,10.5.3.14.1,41700,E,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819666,10.5.3.14.1,60400,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819666,10.5.3.14.1,54300,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819666,10.5.3.14.1,60200,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819666,10.5.3.14.1,57900,E,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,Mood disorder,Number of persons,Number,223,units,0,v110819666,10.5.3.14.1,63000,E,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819673,10.5.3.15.1,64900,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819673,10.5.3.15.1,91100,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819673,10.5.3.15.1,49400,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819673,10.5.3.15.1,59200,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819673,10.5.3.15.1,68600,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110819673,10.5.3.15.1,53400,E,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819680,10.5.3.16.1,51400,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819680,10.5.3.16.1,77100,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819680,10.5.3.16.1,42000,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819680,10.5.3.16.1,49100,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819680,10.5.3.16.1,53700,E,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110819680,10.5.3.16.1,40900,E,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819687,10.5.3.17.1,39200,E,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819687,10.5.3.17.1,52500,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819687,10.5.3.17.1,35100,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819687,10.5.3.17.1,42200,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819687,10.5.3.17.1,39500,E,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,Heavy drinking,Number of persons,Number,223,units,0,v110819687,10.5.3.17.1,74300,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819729,10.5.3.23.1,269700,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819729,10.5.3.23.1,249000,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819729,10.5.3.23.1,258600,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819729,10.5.3.23.1,266200,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819729,10.5.3.23.1,268800,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110819729,10.5.3.23.1,259000,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819736,10.5.3.24.1,339900,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819736,10.5.3.24.1,334900,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819736,10.5.3.24.1,344900,,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819736,10.5.3.24.1,354800,,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819736,10.5.3.24.1,363400,,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110819736,10.5.3.24.1,348100,,,,0
+2015,Alberta,2016A000248,50 to 64 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819750,10.5.3.26.1,320900,,,,0
+2016,Alberta,2016A000248,50 to 64 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819750,10.5.3.26.1,336800,,,,0
+2017,Alberta,2016A000248,50 to 64 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819750,10.5.3.26.1,,..,,,0
+2018,Alberta,2016A000248,50 to 64 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819750,10.5.3.26.1,,..,,,0
+2019,Alberta,2016A000248,50 to 64 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819750,10.5.3.26.1,,..,,,0
+2020,Alberta,2016A000248,50 to 64 years,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110819750,10.5.3.26.1,,..,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819939,10.6.2.1.1,121700,,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819939,10.6.2.1.1,97900,,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819939,10.6.2.1.1,109000,,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819939,10.6.2.1.1,113200,,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819939,10.6.2.1.1,128700,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110819939,10.6.2.1.1,138900,,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819946,10.6.2.2.1,33900,,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819946,10.6.2.2.1,49000,,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819946,10.6.2.2.1,51900,,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819946,10.6.2.2.1,54400,,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819946,10.6.2.2.1,48200,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110819946,10.6.2.2.1,52200,,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819953,10.6.2.3.1,150300,,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819953,10.6.2.3.1,146300,,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819953,10.6.2.3.1,143100,,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819953,10.6.2.3.1,158400,,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819953,10.6.2.3.1,170100,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110819953,10.6.2.3.1,169100,,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819960,10.6.2.4.1,5000,E,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819960,10.6.2.4.1,13000,E,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819960,10.6.2.4.1,13000,E,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819960,10.6.2.4.1,8500,E,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819960,10.6.2.4.1,13700,E,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110819960,10.6.2.4.1,13700,E,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819967,10.6.2.5.1,20300,E,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819967,10.6.2.5.1,30200,,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819967,10.6.2.5.1,32000,,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819967,10.6.2.5.1,26000,E,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819967,10.6.2.5.1,25700,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110819967,10.6.2.5.1,25000,,,,0
+2015,Alberta,2016A000248,65 years and over,Males,Mood disorder,Number of persons,Number,223,units,0,v110820030,10.6.2.14.1,8000,E,,,0
+2016,Alberta,2016A000248,65 years and over,Males,Mood disorder,Number of persons,Number,223,units,0,v110820030,10.6.2.14.1,12200,E,,,0
+2017,Alberta,2016A000248,65 years and over,Males,Mood disorder,Number of persons,Number,223,units,0,v110820030,10.6.2.14.1,14400,E,,,0
+2018,Alberta,2016A000248,65 years and over,Males,Mood disorder,Number of persons,Number,223,units,0,v110820030,10.6.2.14.1,14000,E,,,0
+2019,Alberta,2016A000248,65 years and over,Males,Mood disorder,Number of persons,Number,223,units,0,v110820030,10.6.2.14.1,18000,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,Mood disorder,Number of persons,Number,223,units,0,v110820030,10.6.2.14.1,15200,E,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820037,10.6.2.15.1,20300,E,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820037,10.6.2.15.1,27100,,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820037,10.6.2.15.1,20800,E,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820037,10.6.2.15.1,24100,,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820037,10.6.2.15.1,26100,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820037,10.6.2.15.1,29500,E,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110820044,10.6.2.16.1,15000,E,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110820044,10.6.2.16.1,20800,E,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110820044,10.6.2.16.1,16700,E,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110820044,10.6.2.16.1,18400,E,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110820044,10.6.2.16.1,22300,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Current smoker, daily",Number of persons,Number,223,units,0,v110820044,10.6.2.16.1,25300,E,,,0
+2015,Alberta,2016A000248,65 years and over,Males,Heavy drinking,Number of persons,Number,223,units,0,v110820051,10.6.2.17.1,21600,E,,,0
+2016,Alberta,2016A000248,65 years and over,Males,Heavy drinking,Number of persons,Number,223,units,0,v110820051,10.6.2.17.1,19800,E,,,0
+2017,Alberta,2016A000248,65 years and over,Males,Heavy drinking,Number of persons,Number,223,units,0,v110820051,10.6.2.17.1,23600,E,,,0
+2018,Alberta,2016A000248,65 years and over,Males,Heavy drinking,Number of persons,Number,223,units,0,v110820051,10.6.2.17.1,29800,E,,,0
+2019,Alberta,2016A000248,65 years and over,Males,Heavy drinking,Number of persons,Number,223,units,0,v110820051,10.6.2.17.1,22800,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,Heavy drinking,Number of persons,Number,223,units,0,v110820051,10.6.2.17.1,19400,,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820093,10.6.2.23.1,149500,,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820093,10.6.2.23.1,151200,,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820093,10.6.2.23.1,164300,,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820093,10.6.2.23.1,163300,,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820093,10.6.2.23.1,190700,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820093,10.6.2.23.1,174000,,,,0
+2015,Alberta,2016A000248,65 years and over,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820100,10.6.2.24.1,182000,,,,0
+2016,Alberta,2016A000248,65 years and over,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820100,10.6.2.24.1,182100,,,,0
+2017,Alberta,2016A000248,65 years and over,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820100,10.6.2.24.1,190200,,,,0
+2018,Alberta,2016A000248,65 years and over,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820100,10.6.2.24.1,198900,,,,0
+2019,Alberta,2016A000248,65 years and over,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820100,10.6.2.24.1,223500,,,,0
+2020,Alberta,2016A000248,65 years and over,Males,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820100,10.6.2.24.1,230200,,,,0
+2015,Alberta,2016A000248,65 years and over,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820114,10.6.2.26.1,188000,,,,0
+2016,Alberta,2016A000248,65 years and over,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820114,10.6.2.26.1,192300,,,,0
+2017,Alberta,2016A000248,65 years and over,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820114,10.6.2.26.1,,..,,,0
+2018,Alberta,2016A000248,65 years and over,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820114,10.6.2.26.1,,..,,,0
+2019,Alberta,2016A000248,65 years and over,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820114,10.6.2.26.1,,..,,,0
+2020,Alberta,2016A000248,65 years and over,Males,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820114,10.6.2.26.1,,..,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110820121,10.6.3.1.1,117300,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110820121,10.6.3.1.1,125000,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110820121,10.6.3.1.1,137600,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110820121,10.6.3.1.1,145500,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110820121,10.6.3.1.1,147600,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Perceived health, very good or excellent",Number of persons,Number,223,units,0,v110820121,10.6.3.1.1,164700,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110820128,10.6.3.2.1,49900,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110820128,10.6.3.2.1,52600,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110820128,10.6.3.2.1,49600,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110820128,10.6.3.2.1,48900,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110820128,10.6.3.2.1,58200,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Perceived health, fair or poor",Number of persons,Number,223,units,0,v110820128,10.6.3.2.1,49700,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110820135,10.6.3.3.1,162300,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110820135,10.6.3.3.1,168800,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110820135,10.6.3.3.1,185800,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110820135,10.6.3.3.1,191100,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110820135,10.6.3.3.1,189000,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, very good or excellent",Number of persons,Number,223,units,0,v110820135,10.6.3.3.1,198900,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110820142,10.6.3.4.1,16300,E,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110820142,10.6.3.4.1,13200,E,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110820142,10.6.3.4.1,9200,E,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110820142,10.6.3.4.1,12500,E,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110820142,10.6.3.4.1,20900,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Perceived mental health, fair or poor",Number of persons,Number,223,units,0,v110820142,10.6.3.4.1,16200,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110820149,10.6.3.5.1,37700,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110820149,10.6.3.5.1,32200,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110820149,10.6.3.5.1,36400,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110820149,10.6.3.5.1,33800,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110820149,10.6.3.5.1,37400,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Perceived life stress, most days quite a bit or extremely stressful",Number of persons,Number,223,units,0,v110820149,10.6.3.5.1,36600,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,Mood disorder,Number of persons,Number,223,units,0,v110820212,10.6.3.14.1,16100,E,,,0
+2016,Alberta,2016A000248,65 years and over,Females,Mood disorder,Number of persons,Number,223,units,0,v110820212,10.6.3.14.1,22600,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,Mood disorder,Number of persons,Number,223,units,0,v110820212,10.6.3.14.1,25700,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,Mood disorder,Number of persons,Number,223,units,0,v110820212,10.6.3.14.1,22500,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,Mood disorder,Number of persons,Number,223,units,0,v110820212,10.6.3.14.1,28800,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,Mood disorder,Number of persons,Number,223,units,0,v110820212,10.6.3.14.1,24700,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820219,10.6.3.15.1,31700,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820219,10.6.3.15.1,24100,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820219,10.6.3.15.1,28900,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820219,10.6.3.15.1,18600,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820219,10.6.3.15.1,27800,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily or occasional",Number of persons,Number,223,units,0,v110820219,10.6.3.15.1,25600,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110820226,10.6.3.16.1,27600,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110820226,10.6.3.16.1,19500,E,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110820226,10.6.3.16.1,22700,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110820226,10.6.3.16.1,15600,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110820226,10.6.3.16.1,22900,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Current smoker, daily",Number of persons,Number,223,units,0,v110820226,10.6.3.16.1,20400,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,Heavy drinking,Number of persons,Number,223,units,0,v110820233,10.6.3.17.1,9900,E,,,0
+2016,Alberta,2016A000248,65 years and over,Females,Heavy drinking,Number of persons,Number,223,units,0,v110820233,10.6.3.17.1,7200,E,,,0
+2017,Alberta,2016A000248,65 years and over,Females,Heavy drinking,Number of persons,Number,223,units,0,v110820233,10.6.3.17.1,13500,E,,,0
+2018,Alberta,2016A000248,65 years and over,Females,Heavy drinking,Number of persons,Number,223,units,0,v110820233,10.6.3.17.1,7900,E,,,0
+2019,Alberta,2016A000248,65 years and over,Females,Heavy drinking,Number of persons,Number,223,units,0,v110820233,10.6.3.17.1,16200,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,Heavy drinking,Number of persons,Number,223,units,0,v110820233,10.6.3.17.1,9400,E,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820275,10.6.3.23.1,161100,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820275,10.6.3.23.1,180200,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820275,10.6.3.23.1,187300,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820275,10.6.3.23.1,195100,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820275,10.6.3.23.1,199100,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Sense of belonging to local community, somewhat strong or very strong",Number of persons,Number,223,units,0,v110820275,10.6.3.23.1,226600,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820282,10.6.3.24.1,199500,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820282,10.6.3.24.1,212500,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820282,10.6.3.24.1,219200,,,,0
+2018,Alberta,2016A000248,65 years and over,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820282,10.6.3.24.1,242900,,,,0
+2019,Alberta,2016A000248,65 years and over,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820282,10.6.3.24.1,244000,,,,0
+2020,Alberta,2016A000248,65 years and over,Females,"Life satisfaction, satisfied or very satisfied",Number of persons,Number,223,units,0,v110820282,10.6.3.24.1,264800,,,,0
+2015,Alberta,2016A000248,65 years and over,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820296,10.6.3.26.1,202700,,,,0
+2016,Alberta,2016A000248,65 years and over,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820296,10.6.3.26.1,220800,,,,0
+2017,Alberta,2016A000248,65 years and over,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820296,10.6.3.26.1,,..,,,0
+2018,Alberta,2016A000248,65 years and over,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820296,10.6.3.26.1,,..,,,0
+2019,Alberta,2016A000248,65 years and over,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820296,10.6.3.26.1,,..,,,0
+2020,Alberta,2016A000248,65 years and over,Females,Contact with a medical doctor in the past 12 months,Number of persons,Number,223,units,0,v110820296,10.6.3.26.1,,..,,,0

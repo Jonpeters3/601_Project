@@ -1,0 +1,24 @@
+﻿Sex,"Diagnosis category based on 
+primary diagnosis","Percentage 
+of discharges","Crude discharge rate per 
+100,000 population","Average length of stay 
+(days)","Total length of stay 
+(days)"
+Female,Organic disorders,17.44,116.53,34.28,755463
+Female,Substance-related disorders,13.83,137.4,8.12,141932
+Female,Schizophrenic and psychotic disorders,14.85,99.26,35.26,661906
+Female,Mood disorders,25.66,203.45,18.03,584544
+Female,Anxiety disorders,4.44,167.53,10.73,60190
+Female,Personality disorders,7.35,65.12,11.32,105195
+Female,Other disorders,16.42,132.5,12.58,260946
+Female,Unknown disorders,0.01,0.04,71.57,501
+Female,Total (Organic disorders included),100,668.21,20.34,2570677
+Male,Organic disorders,13.84,99.41,41.96,779077
+Male,Substance-related disorders,27.52,260.45,8.26,304915
+Male,Schizophrenic and psychotic disorders,23.91,171.72,39.29,1260329
+Male,Mood disorders,18.4,166.53,18.93,467150
+Male,Anxiety disorders,2.38,125.45,11.32,36134
+Male,Personality disorders,2.87,40.23,17.31,66714
+Male,Other disorders,11.06,94.52,17.05,253021
+Male,Unknown disorders,0.01,0.07,42.29,592
+Male,Total (Organic disorders included),100,718.11,23.62,3167932

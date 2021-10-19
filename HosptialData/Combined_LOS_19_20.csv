@@ -1,0 +1,47 @@
+﻿Hospital type,Province/territory,"Median length of stay 
+(days)","Average length of stay 
+(days)","0.5% trimmed average 
+(days)","Total length of stay 
+(days)"
+General hospitals,Newfoundland and Labrador,7,18.75,17.36,43534
+General hospitals,Prince Edward Island,8,21.89,20.13,29530
+General hospitals,Nova Scotia,7,20.8,19.12,106321
+General hospitals,New Brunswick,8,25.9,21.96,140423
+General hospitals,Quebec,9,20.04,18.74,951261
+General hospitals,Ontario,6,14.28,12.61,1206435
+General hospitals,Manitoba,10,23.98,21.88,173751
+General hospitals,Saskatchewan,7,12.16,11.47,99670
+General hospitals,Alberta,6,16.77,15.28,449752
+General hospitals,British Columbia,5,13.99,12.82,571834
+General hospitals,Yukon,3,5.96,5.46,2662
+General hospitals,Northwest Territories,3,14.14,7.65,10788
+General hospitals,Nunavut,2,3.03,2.94,481
+General hospitals,Canada (Organic disorders included),7,16.41,14.83,3786442
+Psychiatric hospitals,Newfoundland and Labrador,7,22.27,19.72,25437
+Psychiatric hospitals,Prince Edward Island,20,28.58,28.1,3887
+Psychiatric hospitals,Nova Scotia,18,70.03,59.38,56447
+Psychiatric hospitals,New Brunswick,26,311.25,227.34,70032
+Psychiatric hospitals,Quebec,14,48.16,39.62,446627
+Psychiatric hospitals,Ontario,22,68.49,55.38,857209
+Psychiatric hospitals,Manitoba,22,110.45,92.97,83393
+Psychiatric hospitals,Saskatchewan,27,191.72,178.35,22048
+Psychiatric hospitals,Alberta,22,71.76,55.71,326716
+Psychiatric hospitals,British Columbia,82,148.35,138.3,61566
+Psychiatric hospitals,Yukon,—,—,—,—
+Psychiatric hospitals,Northwest Territories,—,—,—,—
+Psychiatric hospitals,Nunavut,—,—,—,—
+Psychiatric hospitals,Canada (Organic disorders included),20,65.25,51.65,1953362
+General and psychiatric hospitals,Newfoundland and Labrador,7,19.91,18.12,68971
+General and psychiatric hospitals,Prince Edward Island,9,22.5,20.72,33417
+General and psychiatric hospitals,Nova Scotia,8,27.51,22.96,162768
+General and psychiatric hospitals,New Brunswick,9,37.28,24.41,210455
+General and psychiatric hospitals,Quebec,9,24.64,21.41,1397888
+General and psychiatric hospitals,Ontario,7,21.28,16.68,2063644
+General and psychiatric hospitals,Manitoba,11,32.14,25.41,257144
+General and psychiatric hospitals,Saskatchewan,7,14.64,12.15,121718
+General and psychiatric hospitals,Alberta,7,24.75,19.94,776468
+General and psychiatric hospitals,British Columbia,5,15.34,13.68,633400
+General and psychiatric hospitals,Yukon,3,5.96,5.46,2662
+General and psychiatric hospitals,Northwest Territories,3,14.14,7.65,10788
+General and psychiatric hospitals,Nunavut,2,3.03,2.94,481
+General and psychiatric hospitals,Canada (Organic disorders included),7,22.02,17.94,5739804

@@ -1,0 +1,15 @@
+﻿"Diagnosis category based on 
+primary diagnosis",Discharges,"Percentage 
+of discharges","Median length of stay 
+(days)","Average length of stay 
+(days)","0.5% trimmed mean 
+(days)",Total length of stay (days)
+Organic disorders,1241,4.3,60,161.28,147.99,200143
+Substance-related disorders,5901,20.44,15,27.06,21.68,159653
+Schizophrenic and psychotic disorders,8681,30.07,33,123.87,99.71,1075304
+Mood disorders,6607,22.88,20,43.14,35.92,285041
+Anxiety disorders,542,1.88,15,31.91,27.26,17296
+Personality disorders,2153,7.46,6,25.26,18.36,54394
+Other disorders,3717,12.87,9,63.99,36.14,237853
+Unknown disorders,30,0.1,11,51.57,14.04,1547
+Total (Organic disorders included),28872,100,20,70.35,53.47,2031231

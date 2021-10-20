@@ -1,5 +1,8 @@
 # The Dream Team (Team 8)
 
+All information, files, and data is stored int he following github repository:
+https://github.com/Jonpeters3/601_Project
+
 ### Links to Datasources:
 The following data sources were utilized in our analysis. Please note that all data sources are considered open source and have been made public by government agencies, therefore we have legal permission to utilize the data. We abided by any attribution requirements we came across while conducting our analysis. Please note the filters on the Statistics Canada databases have been saved and provided below.
 

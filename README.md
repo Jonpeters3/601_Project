@@ -1,6 +1,6 @@
 # The Dream Team (Team 8)
 
-All information, files, and data is stored int he following github repository:
+All information, files, and data is stored in the following github repository:
 https://github.com/Jonpeters3/601_Project
 
 ### Links to Datasources:
